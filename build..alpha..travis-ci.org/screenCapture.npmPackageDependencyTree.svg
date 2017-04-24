@@ -1,7 +1,7 @@
 <svg height="4526" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="4526" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">59 megabytes installed</tspan>
+<tspan x="10" y="26">58 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ grunt-email-builder@4.0.0 </tspan>
@@ -74,7 +74,7 @@
 <tspan x="10" y="1146">    │   │ └── signal-exit@3.0.2 </tspan>
 <tspan x="10" y="1162">    │   ├── map-obj@1.0.1 </tspan>
 <tspan x="10" y="1178">    │   ├── minimist@1.2.0 </tspan>
-<tspan x="10" y="1194">    │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="1194">    │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="1210">    │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="1226">    │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="1242">    │   │ │ └── builtin-modules@1.1.1 </tspan>
